@@ -9,11 +9,15 @@ Here are the list of files along with where they are used:
     - [pavucontrol.png](img/dotfiles-docs/pavucontrol.png)
     - [pavucontrol-playback.png](img/dotfiles-docs/pavucontrol-playback.png)
 
-  * Used in [sine-plots]:
+  * Used in [sine plots]:
     - [sine-py.png](img/sine-plots/sine-py.png)
     - [xkcd-sine-py.png](img/sine-plots/xkcd-sine-py.png)
     - [xkcd-sine-tex.png](img/sine-plots/xkcd-sine-tex.png)
     - [sine-tex.png](img/sine-plots/sine-tex.png)
 
+  * Used in [listings experiment]:
+    - [listings-fonts-columns-spaces.pdf](pdf/listings/listings-fonts-columns-spaces.pdf)
+
 [dotfiles notes]: https://github.com/susam/dotfiles/blob/master/docs/debian-wireless-speaker.md
-[sine-plots]: https://github.com/susam/lab/tree/master/graphics/sine-plots
+[sine plots]: https://github.com/susam/lab/tree/master/graphics/sine-plots
+[listings experiment]: https://github.com/susam/lab/tree/master/tex/listings
